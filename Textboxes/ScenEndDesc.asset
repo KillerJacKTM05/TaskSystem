@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dbd75b7422011c489a1bdf039e0ebdb, type: 3}
+  m_Name: ScenEndDesc
+  m_EditorClassIdentifier: 
+  textBoxEng: Thank you for your playing! Current scenario is now completed. You
+    can either decide to proceed and continue to explore or quit the game with saving
+    your data.
+  textBoxTr: "Oynad\u0131\u011F\u0131n\u0131z i\xE7in te\u015Fekk\xFCrler. Bu senaryo
+    tamamlanm\u0131\u015Ft\u0131r. Proceed tu\u015Funa basarak bu d\xFCnyay\u0131
+    ke\u015Ffe devam etmeyi, quit tu\u015Funa basarak yap\u0131lanlar\u0131 kaydedip
+    \xE7\u0131kmay\u0131 se\xE7ebilirsiniz."
